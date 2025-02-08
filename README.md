@@ -8,7 +8,7 @@ Objectives:
 ● Answer reflection questions to demonstrate your understanding of the preprocessing pipeline and its implications.
 
 This assignment was not intented to be difficult. It was intended to test one's knowledge on data wrangling and preprocessing steps when analysing data. 
-However, my VS environment refused to recognize the environment that I wanted to use. And the original environment did not acknowlege that the packages and modules were already installed and imported. 
+However, VS conde refused to recognize the environment that I wanted to use. And the original environment did not acknowlege that the packages and modules were already installed and imported. 
 After numerous times troubleshooting and getting assistance from the prof, we finally saw a bit of light. However, that was short lived as an edit in my folders sent me right back to the beginning stages. 
 
 The machines have won this round!
